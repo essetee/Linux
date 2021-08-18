@@ -1,1 +1,3 @@
-# Linux
+# Linux backgrounds
+
+Backgrounds I use.
